@@ -31,7 +31,7 @@
     height: 70px;
     /* background-color: rgb(235, 220, 12); */
     position: absolute;
-    background-image: url("/images/2.png");
+    background-image: url("./images/2.png");
     background-color: 2d3436;
 
     bottom: 120px;
